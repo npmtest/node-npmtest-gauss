@@ -1,6 +1,6 @@
 # npmtest-gauss
 
-#### test coverage for  [gauss (v0.2.12)](https://github.com/wayoutmind/gauss#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-gauss.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gauss) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gauss.svg)](https://travis-ci.org/npmtest/node-npmtest-gauss)
+#### basic test coverage for  [gauss (v0.2.12)](https://github.com/wayoutmind/gauss#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-gauss.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gauss) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gauss.svg)](https://travis-ci.org/npmtest/node-npmtest-gauss)
 
 #### JavaScript statistics, analytics, and set library
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-gauss/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-gauss/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-gauss/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-gauss/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-gauss/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-gauss/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-gauss/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-gauss/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-gauss/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-gauss/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-gauss/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-gauss/build/coverage.html/index.html)
 
